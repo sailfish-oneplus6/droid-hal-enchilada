@@ -7,7 +7,7 @@
 
 %define droid_target_aarch64 1
 
-%define installable_zip 0
+%define installable_zip 1
 
 # Calls /var/lib/platform-updates/flash-bootimg.sh
 %define enable_kernel_update 1
